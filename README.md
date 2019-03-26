@@ -1,5 +1,8 @@
 # projet-site
 
+Référent Digital : Hugo Fakir 
+
+
 Cahier des charges :
 
 1. Ce que l'on va faire :
