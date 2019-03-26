@@ -14,7 +14,7 @@ Cahier des charges :
 -N'aura pas de base de donnée
 -Ne sera pas responsive
 
-3. Critère  d'évaluation :
+3. Critères d'évaluation :
 -Le site doit être fonctionnel
 -Le lien doit marcher 
 
